@@ -1,0 +1,196 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "cateId": "4",
+      "name": "Ergonomic Steel Shirt",
+      "price": "33",
+      "sale_price": "32",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-13.jpg?alt=media&token=01bd1b06-f7f4-4054-b2d3-e144b84d3b1d",
+      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+    },
+    {
+      "id": "6",
+      "cateId": "11",
+      "name": "Intelligent Concrete Bacon",
+      "price": "461.00",
+      "sale_price": "66",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-11.jpg?alt=media&token=01050d4d-7d22-4325-9046-a027248b36fa",
+      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+    },
+    {
+      "id": "7",
+      "cateId": "3",
+      "name": "Handcrafted Concrete Hat",
+      "price": "58",
+      "sale_price": "54",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-12.jpg?alt=media&token=06ff8dc3-cd6c-4cf5-a796-7e92173596e9",
+      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+    },
+    {
+      "id": "SH_Nlv5",
+      "cateId": "5",
+      "name": "Vintage Inspired Classic",
+      "price": "922",
+      "sale_price": "888",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-15.jpg?alt=media&token=baeac95f-2236-421c-8563-64fcd661da46",
+      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+    },
+    {
+      "id": "h7VE41f",
+      "cateId": "5",
+      "name": "Mini Silver Mesh Watch",
+      "price": "111",
+      "sale_price": "99",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-06.jpg?alt=media&token=3771f1d0-3c46-43cf-acc1-c9fe23fed7b0",
+      "detail": []
+    },
+    {
+      "id": "uh5LDQ8",
+      "cateId": "9",
+      "name": "Converse All Star Hi Plimsolls",
+      "price": "33",
+      "sale_price": "31",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-09.jpg?alt=media&token=52706839-6af7-412f-87df-6cc55a696acc",
+      "detail": []
+    },
+    {
+      "id": "kJjcCvF",
+      "cateId": "6",
+      "name": "Only Check Trouser",
+      "price": "25",
+      "sale_price": "23",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-03.jpg?alt=media&token=3bc62ed0-c363-41a4-99cc-9dab8fc1e54c",
+      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+    },
+    {
+      "id": "163OPP2",
+      "cateId": "10",
+      "name": "Herschel supply",
+      "price": "35",
+      "sale_price": "34",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-16.jpg?alt=media&token=d3d3a884-0f46-45d8-9017-4e1f30ad03f1",
+      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 6,
+      "date": "20/7/2020",
+      "cate_id": "4",
+      "title": "Wear Dresses in the Winter",
+      "image": "https://lorempixel.com/640/480/?27616",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.</p>"
+    },
+    {
+      "id": 8,
+      "date": "20/7/2020",
+      "cate_id": "2",
+      "title": "The Great Big List of Men’s Gifts for the Holidays",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fblog-03.jpg?alt=media&token=867926b7-5ef6-4679-97fe-dc640b5f1448",
+      "content": "<p>Praesent vel mi bibendum, finibus leo ac, condimentum arcu. Pellentesque sem ex, tristique sit amet suscipit in, mattis imperdiet enim. Integer tempus justo nec velit fringilla, eget eleifend neque blandit. Sed tempor magna sed congue auctor. Mauris eu turpis eget tortor ultricies elementum. Phasellus vel placerat orci, a venenatis justo. Phasellus faucibus venenatis nisl vitae vestibulum. Praesent id nibh arcu. Vivamus sagittis accumsan felis, quis vulputate</p>"
+    },
+    {
+      "id": 9,
+      "date": "2020-08-15",
+      "cate_id": "6",
+      "title": "5 Winter-to-Spring Fashion Trends to Try Now",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fblog-05.jpg?alt=media&token=62081290-063e-4660-8159-f3a6792c258d",
+      "content": "<h4 class=\"ltext-109 cl2 p-b-28\">Winter</h4>\n<p class=\"stext-117 cl6 p-b-26\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.Praesent vel mi bibendum, finibus leo ac, condimentum arcu. Pellentesque sem ex, tristique sit amet suscipit in, mattis imperdiet enim. Integer tempus justo nec velit fringilla, eget eleifend neque blandit. Sed tempor magna sed congue auctor. Mauris eu turpis eget tortor ultricies elementum. Phasellus vel placerat orci, a venenatis justo. Phasellus faucibus venenatis nisl vitae vestibulum. Praesent id nibh arcu. Vivamus sagittis accumsan felis, quis vulputate</p>"
+    },
+    {
+      "id": 10,
+      "date": "2020-08-02",
+      "cate_id": "5",
+      "title": "8 Inspiring Ways to Wear Dresses in the Winter",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fblog-04.jpg?alt=media&token=7c7014f5-6564-42c4-b6b0-ad1440743bc2",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.</p>"
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "cate_name": " Uncategory"
+    },
+    {
+      "id": 3,
+      "cate_name": " repellat",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 4,
+      "cate_name": "est occaecati",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 5,
+      "cate_name": "Watches",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 6,
+      "cate_name": "dolorem ",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fabout-02.jpg?alt=media&token=a338b2d3-e186-4b91-8ae9-2e8234306a19"
+    },
+    {
+      "id": 8,
+      "cate_name": "Bag for human",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fgallery-02.jpg?alt=media&token=90626955-7f9b-4c86-ab5e-40b51b4e92e8"
+    },
+    {
+      "id": 9,
+      "cate_name": "Shoes",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fbanner-08.jpg?alt=media&token=a5964db8-16fc-4c3e-950f-8e881fa82581"
+    },
+    {
+      "id": 10,
+      "cate_name": "Clothes Women",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fbanner-07.jpg?alt=media&token=ef4d4732-bb36-4d98-821b-8e2880d1cce8"
+    },
+    {
+      "id": 11,
+      "cate_name": "Clothes Men",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Favatar-01.jpg?alt=media&token=32100d87-d0d2-4157-90f2-94e22ff3e8cc"
+    }
+  ],
+  "cateblogs": [
+    {
+      "id": 2,
+      "name": "Công nghệ",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 4,
+      "name": "Khoa Học",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 5,
+      "name": "Xã Hội",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 6,
+      "name": "Giáo Dục",
+      "image": "https://lorempixel.com/640/480/?27616"
+    },
+    {
+      "id": 3,
+      "name": "Thể Thao",
+      "image": "https://lorempixel.com/640/480/?27616"
+    }
+  ],
+  "contact": [
+    {
+      "id": 2,
+      "email": "tan2@gmail.com",
+      "content": "rất hữu ích"
+    },
+    {
+      "email": "tannnph08772@fpt.edu.vn",
+      "content": "bài viết hay đấy",
+      "id": 1
+    }
+  ],
+  "cart": []
+}
