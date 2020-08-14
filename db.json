@@ -1,196 +1,46 @@
 {
   "products": [
     {
+      "id": "1",
+      "name": "Áo Kaki nam",
+      "image": "data:image/jpeg;base64,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",
+      "price": "111"
+    },
+    {
+      "id": "4",
+      "name": "Sleek Frozen Chips",
+      "image": "http://lorempixel.com/640/480/sports",
+      "price": "697.00"
+    },
+    {
       "id": "5",
-      "cateId": "4",
       "name": "Ergonomic Steel Shirt",
-      "price": "33",
-      "sale_price": "32",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-13.jpg?alt=media&token=01bd1b06-f7f4-4054-b2d3-e144b84d3b1d",
-      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "498.00"
     },
     {
       "id": "6",
-      "cateId": "11",
       "name": "Intelligent Concrete Bacon",
-      "price": "461.00",
-      "sale_price": "66",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-11.jpg?alt=media&token=01050d4d-7d22-4325-9046-a027248b36fa",
-      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+      "image": "http://lorempixel.com/640/480/nature",
+      "price": "461.00"
     },
     {
       "id": "7",
-      "cateId": "3",
       "name": "Handcrafted Concrete Hat",
-      "price": "58",
-      "sale_price": "54",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-12.jpg?alt=media&token=06ff8dc3-cd6c-4cf5-a796-7e92173596e9",
-      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+      "image": "http://lorempixel.com/640/480/fashion",
+      "price": "580.00"
     },
     {
-      "id": "SH_Nlv5",
-      "cateId": "5",
-      "name": "Vintage Inspired Classic",
-      "price": "922",
-      "sale_price": "888",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-15.jpg?alt=media&token=baeac95f-2236-421c-8563-64fcd661da46",
-      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+      "id": "8",
+      "name": "Incredible Cotton Tuna",
+      "image": "http://lorempixel.com/640/480/food",
+      "price": "57.00"
     },
     {
-      "id": "h7VE41f",
-      "cateId": "5",
-      "name": "Mini Silver Mesh Watch",
-      "price": "111",
-      "sale_price": "99",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-06.jpg?alt=media&token=3771f1d0-3c46-43cf-acc1-c9fe23fed7b0",
-      "detail": []
-    },
-    {
-      "id": "uh5LDQ8",
-      "cateId": "9",
-      "name": "Converse All Star Hi Plimsolls",
-      "price": "33",
-      "sale_price": "31",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-09.jpg?alt=media&token=52706839-6af7-412f-87df-6cc55a696acc",
-      "detail": []
-    },
-    {
-      "id": "kJjcCvF",
-      "cateId": "6",
-      "name": "Only Check Trouser",
-      "price": "25",
-      "sale_price": "23",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-03.jpg?alt=media&token=3bc62ed0-c363-41a4-99cc-9dab8fc1e54c",
-      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
-    },
-    {
-      "id": "163OPP2",
-      "cateId": "10",
-      "name": "Herschel supply",
-      "price": "35",
-      "sale_price": "34",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fproduct-16.jpg?alt=media&token=d3d3a884-0f46-45d8-9017-4e1f30ad03f1",
-      "detail": "<p>Aenean sit amet gravida nisi. Nam fermentum est felis, quis feugiat nunc fringilla sit amet. Ut in blandit ipsum. Quisque luctus dui at ante aliquet, in hendrerit lectus interdum. Morbi elementum sapien rhoncus pretium maximus. Nulla lectus enim, cursus et elementum sed, sodales vitae eros. Ut ex quam, porta consequat interdum in, faucibus eu velit. Quisque rhoncus ex ac libero varius molestie. Aenean tempor sit amet orci nec iaculis. Cras sit amet nulla libero. Curabitur dignissim, nunc nec laoreet consequat, purus nunc porta lacus, vel efficitur tellus augue in ipsum. Cras in arcu sed metus rutrum iaculis. Nulla non tempor erat. Duis in egestas nunc.</p>"
+      "id": "9",
+      "name": "Generic Plastic Tuna",
+      "image": "http://lorempixel.com/640/480/animals",
+      "price": "836.00"
     }
-  ],
-  "blogs": [
-    {
-      "id": 6,
-      "date": "20/7/2020",
-      "cate_id": "4",
-      "title": "Wear Dresses in the Winter",
-      "image": "https://lorempixel.com/640/480/?27616",
-      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.</p>"
-    },
-    {
-      "id": 8,
-      "date": "20/7/2020",
-      "cate_id": "2",
-      "title": "The Great Big List of Men’s Gifts for the Holidays",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fblog-03.jpg?alt=media&token=867926b7-5ef6-4679-97fe-dc640b5f1448",
-      "content": "<p>Praesent vel mi bibendum, finibus leo ac, condimentum arcu. Pellentesque sem ex, tristique sit amet suscipit in, mattis imperdiet enim. Integer tempus justo nec velit fringilla, eget eleifend neque blandit. Sed tempor magna sed congue auctor. Mauris eu turpis eget tortor ultricies elementum. Phasellus vel placerat orci, a venenatis justo. Phasellus faucibus venenatis nisl vitae vestibulum. Praesent id nibh arcu. Vivamus sagittis accumsan felis, quis vulputate</p>"
-    },
-    {
-      "id": 9,
-      "date": "2020-08-15",
-      "cate_id": "6",
-      "title": "5 Winter-to-Spring Fashion Trends to Try Now",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fblog-05.jpg?alt=media&token=62081290-063e-4660-8159-f3a6792c258d",
-      "content": "<h4 class=\"ltext-109 cl2 p-b-28\">Winter</h4>\n<p class=\"stext-117 cl6 p-b-26\">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.Praesent vel mi bibendum, finibus leo ac, condimentum arcu. Pellentesque sem ex, tristique sit amet suscipit in, mattis imperdiet enim. Integer tempus justo nec velit fringilla, eget eleifend neque blandit. Sed tempor magna sed congue auctor. Mauris eu turpis eget tortor ultricies elementum. Phasellus vel placerat orci, a venenatis justo. Phasellus faucibus venenatis nisl vitae vestibulum. Praesent id nibh arcu. Vivamus sagittis accumsan felis, quis vulputate</p>"
-    },
-    {
-      "id": 10,
-      "date": "2020-08-02",
-      "cate_id": "5",
-      "title": "8 Inspiring Ways to Wear Dresses in the Winter",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fblog-04.jpg?alt=media&token=7c7014f5-6564-42c4-b6b0-ad1440743bc2",
-      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc sit amet est vel orci luctus sollicitudin. Duis eleifend vestibulum justo, varius semper lacus condimentum dictum. Donec pulvinar a magna ut malesuada. In posuere felis diam, vel sodales metus accumsan in. Duis viverra dui eu pharetra pellentesque. Donec a eros leo. Quisque sed ligula vitae lorem efficitur faucibus. Praesent sit amet imperdiet ante. Nulla id tellus auctor, dictum libero a, malesuada nisi. Nulla in porta nibh, id vestibulum ipsum. Praesent dapibus tempus erat quis aliquet. Donec ac purus id sapien condimentum feugiat.</p>"
-    }
-  ],
-  "categories": [
-    {
-      "id": 0,
-      "cate_name": " Uncategory"
-    },
-    {
-      "id": 3,
-      "cate_name": " repellat",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 4,
-      "cate_name": "est occaecati",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 5,
-      "cate_name": "Watches",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 6,
-      "cate_name": "dolorem ",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fabout-02.jpg?alt=media&token=a338b2d3-e186-4b91-8ae9-2e8234306a19"
-    },
-    {
-      "id": 8,
-      "cate_name": "Bag for human",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fgallery-02.jpg?alt=media&token=90626955-7f9b-4c86-ab5e-40b51b4e92e8"
-    },
-    {
-      "id": 9,
-      "cate_name": "Shoes",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fbanner-08.jpg?alt=media&token=a5964db8-16fc-4c3e-950f-8e881fa82581"
-    },
-    {
-      "id": 10,
-      "cate_name": "Clothes Women",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Fbanner-07.jpg?alt=media&token=ef4d4732-bb36-4d98-821b-8e2880d1cce8"
-    },
-    {
-      "id": 11,
-      "cate_name": "Clothes Men",
-      "image": "https://firebasestorage.googleapis.com/v0/b/react-filebase-f2e1f.appspot.com/o/images%2Favatar-01.jpg?alt=media&token=32100d87-d0d2-4157-90f2-94e22ff3e8cc"
-    }
-  ],
-  "cateblogs": [
-    {
-      "id": 2,
-      "name": "Công nghệ",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 4,
-      "name": "Khoa Học",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 5,
-      "name": "Xã Hội",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 6,
-      "name": "Giáo Dục",
-      "image": "https://lorempixel.com/640/480/?27616"
-    },
-    {
-      "id": 3,
-      "name": "Thể Thao",
-      "image": "https://lorempixel.com/640/480/?27616"
-    }
-  ],
-  "contact": [
-    {
-      "id": 2,
-      "email": "tan2@gmail.com",
-      "content": "rất hữu ích"
-    },
-    {
-      "email": "tannnph08772@fpt.edu.vn",
-      "content": "bài viết hay đấy",
-      "id": 1
-    }
-  ],
-  "cart": []
+  ]
 }

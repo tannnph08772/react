@@ -8,40 +8,24 @@ const Sidebar = props => {
                 <div className="sidebar-brand-icon rotate-n-15">
                     <i className="fas fa-laugh-wink" />
                 </div>
-                <div className="sidebar-brand-text mx-3">SB Admin <sup>2</sup></div>
+                <div className="sidebar-brand-text mx-3">Assignment <sup>React</sup></div>
             </Link>
             <hr className="sidebar-divider my-0" />
-            <li className="nav-item border-bottom">
+            <li className="nav-item">
                 <Link className="nav-link" to="/admin">
                     <i className="fas fa-fw fa-tachometer-alt" />
-                    <span>Bảng điều khiển</span></Link>
+                    <span>Dashboard</span></Link>
             </li>
-            <li className="nav-item border-bottom">
+            <li className="nav-item">
                 <Link className="nav-link" to="/admin/products">
                     <i className="fas fa-fw fa-tachometer-alt" />
-                    <span>Quản lý sản phẩm</span></Link>
+                    <span>Products</span></Link>
             </li>
-            <li className="nav-item border-bottom">
-                <Link className="nav-link" to="/admin/blogs">
+            <li className="nav-item">
+                <Link className="nav-link" to="">
                     <i className="fas fa-fw fa-tachometer-alt" />
-                    <span>Quản lý bài viết</span></Link>
+                    <span>Category</span></Link>
             </li>
-            <li className="nav-item border-bottom">
-                <Link className="nav-link" to="/admin/categories">
-                    <i className="fas fa-fw fa-tachometer-alt" />
-                    <span>Quản lý danh mục sản phẩm</span></Link>
-            </li>
-            <li className="nav-item border-bottom">
-                <Link className="nav-link" to="/admin/cateblogs">
-                    <i className="fas fa-fw fa-tachometer-alt" />
-                    <span>Quản lý danh mục bài viết</span></Link>
-            </li>
-            <li className="nav-item border-bottom">
-                <Link className="nav-link" to="/admin/contact">
-                    <i className="fas fa-fw fa-tachometer-alt" />
-                    <span>Quản lý phản hồi của khách hàng</span></Link>
-            </li>
-
         </ul>
     )
 }

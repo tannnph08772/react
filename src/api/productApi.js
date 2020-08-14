@@ -17,10 +17,8 @@ const update = (id, data) => {
 };
 
 const remove = id => {
-    console.log(id);
     return http.delete(`/products/${id}`);
 };
-
 
 export default {
     getAll,

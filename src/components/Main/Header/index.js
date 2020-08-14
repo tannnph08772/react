@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom';
+import PropTypes from 'prop-types'
 
 const Header = props => {
     return (
@@ -39,22 +39,27 @@ const Header = props => {
                 <div className="menu-desktop">
                 <ul className="main-menu">
                     <li className="active-menu">
-                      <Link to="/">Home</Link>
+                    <a href="index.html">Home</a>
+                    <ul className="sub-menu">
+                        <li><a href="index.html">Homepage 1</a></li>
+                        <li><a href="home-02.html">Homepage 2</a></li>
+                        <li><a href="home-03.html">Homepage 3</a></li>
+                    </ul>
                     </li>
                     <li>
-                    < Link to="/shop">Shop</Link>
+                    <a href="product.html">Shop</a>
                     </li>
                     <li className="label1" data-label1="hot">
-                      <Link to="/shopping-cart">Features</Link>
+                    <a href="shoping-cart.html">Features</a>
                     </li>
                     <li>
-                      <Link to="/blog">Blog</Link>
+                    <a href="blog.html">Blog</a>
                     </li>
                     <li>
-                      <Link to="/about">About</Link>
+                    <a href="about.html">About</a>
                     </li>
                     <li>
-                      <Link to="/contact">Contact</Link>
+                    <a href="contact.html">Contact</a>
                     </li>
                 </ul>
                 </div>	
@@ -126,6 +131,11 @@ const Header = props => {
             <ul className="main-menu-m">
             <li>
                 <a href="index.html">Home</a>
+                <ul className="sub-menu-m">
+                <li><a href="index.html">Homepage 1</a></li>
+                <li><a href="home-02.html">Homepage 2</a></li>
+                <li><a href="home-03.html">Homepage 3</a></li>
+                </ul>
                 <span className="arrow-main-menu-m">
                 <i className="fa fa-angle-right" aria-hidden="true" />
                 </span>
